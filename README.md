@@ -26,7 +26,7 @@ It allows users to explore products, manage cart items, and experience a smooth 
 ## 📸 Screenshots
 
 ### 🖼️ Home Page  
-![Home Page](screenshot.png)
+![Home Page](screenshot.PNG)
 
 
 ## 🚀 Getting Started
